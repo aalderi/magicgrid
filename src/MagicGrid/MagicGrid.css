@@ -1,0 +1,6 @@
+.magicgrid {
+  margin: 20px 18px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: no-wrap;
+}
